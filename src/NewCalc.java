@@ -1,5 +1,3 @@
-package calculator;
-
 public class NewCalc {
 
     private double num1;

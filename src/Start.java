@@ -1,5 +1,3 @@
-package calculator;
-
 public class Start {
 
     Calculator calculator = new Calculator();
